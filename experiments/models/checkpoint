@@ -1,0 +1,2 @@
+model_checkpoint_path: "TD3_AntSimple_hiro_ant_meta_critic"
+all_model_checkpoint_paths: "TD3_AntSimple_hiro_ant_meta_critic"
