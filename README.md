@@ -1,3 +1,5 @@
+Please note that this repo is mostly copied from [ant_repo](https://github.com/P-Schumacher/ant_repo).
+
 # Implementation of HIRO: Data-Efficient Hierarchical Reinforcement Learning
 This repository implements the HIRO algorithm for Hierarchical Reinforcement Learning on the original AntMaze environment as presented by Ofir Nachum (Data-Efficient Hierarchical Reinforcement Learning, 2018) 
 
